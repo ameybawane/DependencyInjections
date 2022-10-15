@@ -1,0 +1,8 @@
+C:\VisualStudio\DependencyInjection\MethodInjection\bin\Debug\MethodInjection.exe.config
+C:\VisualStudio\DependencyInjection\MethodInjection\bin\Debug\MethodInjection.exe
+C:\VisualStudio\DependencyInjection\MethodInjection\bin\Debug\MethodInjection.pdb
+C:\VisualStudio\DependencyInjection\MethodInjection\obj\Debug\MethodInjection.csproj.AssemblyReference.cache
+C:\VisualStudio\DependencyInjection\MethodInjection\obj\Debug\MethodInjection.csproj.SuggestedBindingRedirects.cache
+C:\VisualStudio\DependencyInjection\MethodInjection\obj\Debug\MethodInjection.csproj.CoreCompileInputs.cache
+C:\VisualStudio\DependencyInjection\MethodInjection\obj\Debug\MethodInjection.exe
+C:\VisualStudio\DependencyInjection\MethodInjection\obj\Debug\MethodInjection.pdb

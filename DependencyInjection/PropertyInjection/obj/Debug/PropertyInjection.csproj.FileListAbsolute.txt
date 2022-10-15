@@ -1,0 +1,8 @@
+C:\VisualStudio\DependencyInjection\PropertyInjection\bin\Debug\PropertyInjection.exe.config
+C:\VisualStudio\DependencyInjection\PropertyInjection\bin\Debug\PropertyInjection.exe
+C:\VisualStudio\DependencyInjection\PropertyInjection\bin\Debug\PropertyInjection.pdb
+C:\VisualStudio\DependencyInjection\PropertyInjection\obj\Debug\PropertyInjection.csproj.AssemblyReference.cache
+C:\VisualStudio\DependencyInjection\PropertyInjection\obj\Debug\PropertyInjection.csproj.SuggestedBindingRedirects.cache
+C:\VisualStudio\DependencyInjection\PropertyInjection\obj\Debug\PropertyInjection.csproj.CoreCompileInputs.cache
+C:\VisualStudio\DependencyInjection\PropertyInjection\obj\Debug\PropertyInjection.exe
+C:\VisualStudio\DependencyInjection\PropertyInjection\obj\Debug\PropertyInjection.pdb

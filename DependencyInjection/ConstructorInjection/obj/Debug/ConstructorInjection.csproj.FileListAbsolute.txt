@@ -1,0 +1,8 @@
+C:\VisualStudio\DependencyInjection\ConstructorInjection\bin\Debug\ConstructorInjection.exe.config
+C:\VisualStudio\DependencyInjection\ConstructorInjection\bin\Debug\ConstructorInjection.exe
+C:\VisualStudio\DependencyInjection\ConstructorInjection\bin\Debug\ConstructorInjection.pdb
+C:\VisualStudio\DependencyInjection\ConstructorInjection\obj\Debug\ConstructorInjection.csproj.AssemblyReference.cache
+C:\VisualStudio\DependencyInjection\ConstructorInjection\obj\Debug\ConstructorInjection.csproj.SuggestedBindingRedirects.cache
+C:\VisualStudio\DependencyInjection\ConstructorInjection\obj\Debug\ConstructorInjection.csproj.CoreCompileInputs.cache
+C:\VisualStudio\DependencyInjection\ConstructorInjection\obj\Debug\ConstructorInjection.exe
+C:\VisualStudio\DependencyInjection\ConstructorInjection\obj\Debug\ConstructorInjection.pdb

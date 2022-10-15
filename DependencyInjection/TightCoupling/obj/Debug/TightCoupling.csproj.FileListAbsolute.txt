@@ -1,0 +1,8 @@
+C:\VisualStudio\DependencyInjection\TightCoupling\bin\Debug\TightCoupling.exe.config
+C:\VisualStudio\DependencyInjection\TightCoupling\bin\Debug\TightCoupling.exe
+C:\VisualStudio\DependencyInjection\TightCoupling\bin\Debug\TightCoupling.pdb
+C:\VisualStudio\DependencyInjection\TightCoupling\obj\Debug\TightCoupling.csproj.AssemblyReference.cache
+C:\VisualStudio\DependencyInjection\TightCoupling\obj\Debug\TightCoupling.csproj.SuggestedBindingRedirects.cache
+C:\VisualStudio\DependencyInjection\TightCoupling\obj\Debug\TightCoupling.csproj.CoreCompileInputs.cache
+C:\VisualStudio\DependencyInjection\TightCoupling\obj\Debug\TightCoupling.exe
+C:\VisualStudio\DependencyInjection\TightCoupling\obj\Debug\TightCoupling.pdb
